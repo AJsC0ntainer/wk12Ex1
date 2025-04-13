@@ -22,7 +22,7 @@ phone2 = MobilePhone("Samsung", "Galaxy S25", "1TB", "1100")
 
 #Call to method to display object 1 details
 phone1.DisplayPhoneDetails()
-#Call to method to display object 1 details
+#Call to method to display object 2 details
 phone2.DisplayPhoneDetails()
 
 #Pushed to GitHub wk12ex1 repo.
